@@ -9,10 +9,10 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=xreef&show_icons=true" />
 
 <a href="https://github.com/xreef/xreef">
-  <img align="center" src="https://github-readme-stats-xreef.vercel.app/api/top-langs/?username=xreef&show_icons=true&theme=blueberry" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xreef&show_icons=true&theme=blueberry" />
 </a>
 <a href="https://github.com/xreef/xreef">
-  <img align="center" src="https://github-readme-stats-xreef.vercel.app/api?username=xreef&show_icons=true&count_private=true&include_all_commits=true&theme=blueberry" alt="xreef's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xreef&show_icons=true&count_private=true&include_all_commits=true&theme=blueberry" alt="xreef's GitHub Stats" />
 </a>
 
 
